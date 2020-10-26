@@ -1,2 +1,5 @@
-# organized
-✔to improve my day's management in a personalized way
+Aplicativo que criei com o intuito educativo e para salvar algumas tarefas do meu dia-a-dia. tornando assim minha rotina mias produtiva e guardando informaçoes inportantes.
+backend cosntruido inicialmente com node.js usando typescript e todas as bibliotecas necessarias para uma boa estrutura. usando tambem ESlint e Prettier para melhor padronizaçao e estruturaçao do codigo.
+Banco de dados feito usando Postgres e integrado totalmente com o back end.
+Front end sendo feito em React, visando melhor produtividade e reaproveitamento de compoentes. acompanhado em partes de styledComponents e MaterialUI, para melhor interface e experiencia de usuario.
+Apesar de simples, aplicaçao teve bastante impacto, me fazendo melhorar a pratica nas tecnologias, aprimorar a base nelas e na configuraçao de seu ambiente.
